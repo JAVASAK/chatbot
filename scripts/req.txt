@@ -1,0 +1,9 @@
+alembic
+fastapi
+redis
+loguru
+sqlmodel
+starlette
+prometheus-fastapi-instrumentator
+pydantic
+uvicorn
